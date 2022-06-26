@@ -7,8 +7,9 @@ public class Albert {
     public String name = "Albert Qi";
     public int age = LocalDate.now().getYear() - 2003;
     public String[] skills =
-        {"Java", "JavaScript", "Python", "C++", "OCaml",
-         "React", "Angular", "PostgreSQL", "TailwindCSS", "HTML", "Flask"};
+        {"Java", "JavaScript", "TypeScript", "Python", "C++", "OCaml",
+        "React", "Angular", "Flask", "Firebase", "Swift",
+        "PostgreSQL", "TailwindCSS", "HTML"};
 }
 ```
 
